@@ -1,0 +1,33 @@
+segment_sources:
+  PCC667C55:
+    type: origin_type
+    relation: translation
+    language: sa
+  P654095A8:
+    type: origin_type
+    relation: translation
+    language: zh
+  P46C466B2:
+    type: origin_type
+    relation: translation
+    language: zh
+  P0A944C45:
+    type: origin_type
+    relation: translation
+    language: zh
+  P84D0839C:
+    type: origin_type
+    relation: translation
+    language: zh
+  P6FED2336:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  48aa16611f9e4d1ba7967ffa6d9a9872:
+    PCC667C55: 054bb8bd891c48dd98935ecc60f537e4
+    P654095A8: ed80051045bf48618802d951b4e8356c
+    P46C466B2: 6532437b761b4d8b86ce01d4d2a21ff5
+    P0A944C45: 67054df8563c4ecea594170cb360ee39
+    P84D0839C: daeb7ff98e994c2c857f5362a3aa52d7
+    P6FED2336: f2450674e76c4a4e9eb38ed35a3dd99e
